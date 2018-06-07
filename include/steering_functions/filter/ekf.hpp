@@ -20,6 +20,7 @@
 
 #include <iostream>
 
+#undef Success
 #include <Eigen/Dense>
 
 #include "steering_functions/steering_functions.hpp"
